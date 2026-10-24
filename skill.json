@@ -1,0 +1,8 @@
+{
+  "name": "genpark-llm-token-cost-budget-tracker-and-model-router-skill",
+  "version": "1.0.0",
+  "description": "Real-time LLM token spend tracker, tenant budget ceiling guard, and complexity-based model down-router",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
